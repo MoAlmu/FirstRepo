@@ -1,0 +1,4 @@
+This is a critical message that  t am going to amend into pervious commit along with this new file.
+
+# commit #1
+# commit #2
