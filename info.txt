@@ -2,3 +2,6 @@ This is a critical message that  t am going to amend into pervious commit along 
 
 # commit #1
 # commit #2
+
+
+# commit #2
